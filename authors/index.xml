@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | William M Krzyzkowski</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,7 +17,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;William Krzyzkowski is a Senior at JMU. He is currently unemployed. He grew up in Leesburg, VA.&lt;/p&gt;
+      <description>&lt;p&gt;William Krzyzkowski graduated James Madison University in December 2019 with Honors. H Majored in Computer Science with a Minor in Mathematics. He is currently unemployed and actively looking for employment. He lives in Leesburg, VA but is willing to relocate. He does not currently posses a  Security Clearance.&lt;/p&gt;
 </description>
     </item>
     
